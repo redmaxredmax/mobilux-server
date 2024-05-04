@@ -1,0 +1,460 @@
+{
+  "users": [
+    {
+      "email": "redmax.formal@gmail.com",
+      "password": "$2a$10$2KTeMItBjAHh7m1IURv4MeXF/NwOGoO/ORvgllt7K2eIodY0rU3OK",
+      "name": "Abdulboriy",
+      "surename": "Zokirov",
+      "id": 1
+    }
+  ],
+  "products": [
+    {
+      "title": "Apple iPhone 13 Pro Max 512 GB Graphite ",
+      "fashion": "Iphone",
+      "processor": "Apple A15 Bionic",
+      "dioganal": "5.4",
+      "display": "Super Retina XDR (OLED)",
+      "weight": "238",
+      "camera": "телефото 12 МП F/2.80, широкоугольная 12 МП F/1.50, сверхширокоугольная 12 МП F/1.80",
+      "cores": "6",
+      "battery": "Li-Ion, Время работы в режиме прослушивания музыки 95 ч, функция беспроводной зарядки, функция быстрой зарядки",
+      "photo": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MM2K3?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1629923717000",
+      "cost": "18664000",
+      "oldcost": "21842000",
+      "categoryId": "1",
+      "categoryName": "Smartphones",
+      "id": 1,
+      "description": "Смартфон Apple iPhone 13 Pro Max 512 GB Graphite Apple iPhone 13 Pro  оснащен передовыми технологиями, значительно расширяющими функциональные возможности девайса. На тыльной стороне девайса расположен инновационный"
+    },
+    {
+      "title": "Смартфон Apple iphone 15 Pro Max 512 GB Graphite",
+      "fashion": "Iphone",
+      "processor": "Apple A15 Bionic",
+      "dioganal": "6.4",
+      "display": "Super Retina XDR (OLED)",
+      "weight": "258",
+      "camera": "телефото 12 МП F/2.80, широкоугольная 12 МП F/1.50, сверхширокоугольная 12 МП F/1.80",
+      "cores": "8",
+      "battery": "Li-Ion, Время работы в режиме прослушивания музыки 95 ч, функция беспроводной зарядки, функция быстрой зарядки",
+      "photo": "https://m.media-amazon.com/images/I/81fxjeu8fdL._AC_UF1000,1000_QL80_.jpg",
+      "cost": "20664000",
+      "oldcost": "23842000",
+      "categoryId": "1",
+      "categoryName": "Smartphones",
+      "id": 2,
+      "description": "Смартфон Apple iPhone 15 Pro 512 GB Graphite Apple iPhone 15 Pro  оснащен передовыми технологиями, значительно расширяющими функциональные возможности девайса. На тыльной стороне девайса расположен инновационный"
+    },
+    {
+      "title": "Смартфон Apple iphone 12 Pro Max 256 GB",
+      "fashion": "Iphone",
+      "processor": "Apple A12 Bionic",
+      "dioganal": "5.4",
+      "display": "Super Retina XDR (OLED)",
+      "weight": "258",
+      "camera": "телефото 12 МП F/2.80, широкоугольная 12 МП F/1.50, сверхширокоугольная 12 МП F/1.80",
+      "cores": "4",
+      "battery": "Li-Ion, Время работы в режиме прослушивания музыки 95 ч, функция беспроводной зарядки, функция быстрой зарядки",
+      "photo": "https://brostore.uz/cdn/shop/files/3_06fd3604-a6b8-4788-8cab-c8a483993e3d.png?v=1700144915",
+      "cost": "12664000",
+      "oldcost": "15842000",
+      "categoryId": "1",
+      "categoryName": "Smartphones",
+      "id": 3,
+      "description": "Смартфон Apple iPhone 12 Pro Max 256 GB Graphite Apple iPhone 12 Pro  оснащен передовыми технологиями, значительно расширяющими функциональные возможности девайса. На тыльной стороне девайса расположен инновационный"
+    },
+    {
+      "title": "Смартфон Apple iphone 13 Pro 256 GB",
+      "fashion": "Iphone",
+      "processor": "Apple A13 Bionic",
+      "dioganal": "5.4",
+      "display": "Super Retina XDR (OLED)",
+      "weight": "258",
+      "camera": "телефото 12 МП F/2.80, широкоугольная 12 МП F/1.50, сверхширокоугольная 12 МП F/1.80",
+      "cores": "6",
+      "description": "Смартфон Apple iPhone 13 Pro 256 GB Graphite Apple iPhone 13 Pro  оснащен передовыми технологиями, значительно расширяющими функциональные возможности девайса. На тыльной стороне девайса расположен инновационный",
+      "battery": "Li-Ion, Время работы в режиме прослушивания музыки 95 ч, функция беспроводной зарядки, функция быстрой зарядки",
+      "photo": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/refurb-iphone-13-pro-green-2023?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1679072986997",
+      "cost": "15664000",
+      "oldcost": "19342000",
+      "categoryId": "1",
+      "categoryName": "Smartphones",
+      "id": 4
+    },
+    {
+      "title": "Фитнес-браслет Xiaomi Mi Smart Band 6",
+      "fashion": "Xiomi",
+      "processor": "Apple A13",
+      "dioganal": "1.4",
+      "display": "Super Retina XDR (OLED)",
+      "weight": "158",
+      "cores": "2",
+      "description": "Смартфон Фитнес-браслет Xiaomi Mi Smart Band 6 оснащен передовыми технологиями, значительно расширяющими функциональные возможности девайса. На тыльной стороне девайса расположен инновационный",
+      "battery": "Li-Ion, Время работы в режиме прослушивания музыки 95 ч, функция беспроводной зарядки, функция быстрой зарядки",
+      "photo": "https://bizoon.uz/wp-content/uploads/2021/11/1-2.jpg",
+      "cost": "8664000",
+      "oldcost": "11800000",
+      "categoryId": "5",
+      "categoryName": "Gadgets",
+      "id": 5
+    },
+    {
+      "title": "Power Bank HOCO J45 PRO 10000MAH",
+      "fashion": "Xiomi",
+      "dioganal": "5.4",
+      "weight": "258",
+      "description": "Power Bank HOCO J45 PRO 10000MAH оснащен передовыми технологиями, значительно расширяющими функциональные возможности девайса. На тыльной стороне девайса расположен инновационный",
+      "battery": "10000MAH",
+      "photo": "https://assets.asaxiy.uz/product/items/desktop/8dd48d6a2e2cad213179a3992c0be53c2023052920121188072zs63DL0aqY.png.webp",
+      "cost": "1664000",
+      "oldcost": "1942000",
+      "categoryId": "5",
+      "categoryName": "Gadgets",
+      "id": 6
+    },
+    {
+      "title": "Комплект мобильных аксессуаров Nillkin Fancy Pro",
+      "fashion": "Xiomi",
+      "weight": "258",
+      "description": "Комплект мобильных аксессуаров Nillkin Fancy Pro оснащен передовыми технологиями, значительно расширяющими функциональные возможности девайса. На тыльной стороне девайса расположен инновационный",
+      "photo": "https://cdn.mediapark.uz/imgs/c4b3f42a-0f70-401c-a0ce-e3faa01fa18d_test.webp",
+      "cost": "664000",
+      "oldcost": "842000",
+      "categoryId": "5",
+      "categoryName": "Gadgets",
+      "id": 7
+    },
+    {
+      "title": "Наручные часы Casio BA-110-7A3 Baby-G White",
+      "fashion": "Casio",
+      "weight": "98",
+      "description": "Наручные часы Casio BA-110-7A3 Baby-G White оснащен передовыми технологиями, значительно расширяющими функциональные возможности девайса. На тыльной стороне девайса расположен инновационный",
+      "photo": "https://cdn.mediapark.uz/imgs/ff134c0b-e8e1-4391-91e3-78388cb17327_test.webp",
+      "cost": "524000",
+      "oldcost": "712000",
+      "categoryId": "5",
+      "categoryName": "Gadgets",
+      "id": 8
+    },
+    {
+      "title": "Планшет Xiaomi Redmi Pad SE Graphite Gray 6/128GB",
+      "fashion": "Xiomi",
+      "processor": "Xiomi A12 Bionic",
+      "dioganal": "8.4",
+      "display": "Super Retina XDR (OLED)",
+      "weight": "288",
+      "camera": "телефото 12 МП F/2.80, широкоугольная 12 МП F/1.50, сверхширокоугольная 12 МП F/1.80",
+      "cores": "6",
+      "storage": "128GB",
+      "battery": "Li-Ion, Время работы в режиме прослушивания музыки 95 ч, функция беспроводной зарядки, функция быстрой зарядки",
+      "photo": "https://olcha.uz/image/700x700/products/cdn_1/supplier/stores/1/2024-03-07/s9bnFaVVXwf41pRWUACI4LLM6thM3WSPK59CDJUXmn2eP7l5XyowAuCgTuxu.jpg",
+      "cost": "2119000",
+      "oldcost": "3242000",
+      "categoryId": "2",
+      "categoryName": "Tablets",
+      "id": 9,
+      "description": "Планшет Xiaomi Redmi Pad SE Graphite Gray 6/128GB оснащен передовыми технологиями, значительно расширяющими функциональные возможности девайса. На тыльной стороне девайса расположен инновационный"
+    },
+    {
+      "title": "Samsung Galaxy Tab S8 8/256GB Серебристый ",
+      "fashion": "Samsung",
+      "processor": "Samsung A12 Bionic",
+      "dioganal": "8.4",
+      "display": "Super Retina XDR (OLED)",
+      "weight": "288",
+      "camera": "телефото 12 МП F/2.80, широкоугольная 12 МП F/1.50, сверхширокоугольная 12 МП F/1.80",
+      "cores": "8",
+      "storage": "256GB",
+      "battery": "Li-Ion, Время работы в режиме прослушивания музыки 95 ч, функция беспроводной зарядки, функция быстрой зарядки",
+      "photo": "https://olcha.uz/image/700x700/products/XMGJyEx753FpiPEKPQuijoFAgotJwRIH0MK2RFuvBQi1bVU66eijOdKM9nXU.jpg",
+      "cost": "7590000",
+      "oldcost": "9272000",
+      "categoryId": "2",
+      "categoryName": "Tablets",
+      "id": 10,
+      "description": "Samsung Galaxy Tab S8 8/256GB Серебристый  оснащен передовыми технологиями, значительно расширяющими функциональные возможности девайса. На тыльной стороне девайса расположен инновационный"
+    },
+    {
+      "title": "Детский планшет Wintouch K82 1/16GB 8",
+      "fashion": "Samsung",
+      "processor": "Samsung A12 Bionic",
+      "dioganal": "8.4",
+      "display": "Super Retina XDR (OLED)",
+      "weight": "288",
+      "camera": "телефото 12 МП F/2.80, широкоугольная 12 МП F/1.50, сверхширокоугольная 12 МП F/1.80",
+      "cores": "1",
+      "storage": "16GB",
+      "battery": "Li-Ion, Время работы в режиме прослушивания музыки 95 ч, функция беспроводной зарядки, функция быстрой зарядки",
+      "photo": "https://olcha.uz/image/700x700/products/supplier/stores/1/2024-01-31/0IlV9JwEI7OjvxEjZfzNjp67ix9nFhjXg2W3CLFxgUWQWhcrGjCXADowv0Z0.jpg",
+      "cost": "719000",
+      "oldcost": "842000",
+      "categoryId": "2",
+      "categoryName": "Tablets",
+      "id": 11,
+      "description": "Детский планшет Wintouch K82 1/16GB 8 оснащен передовыми технологиями, значительно расширяющими функциональные возможности девайса. На тыльной стороне девайса расположен инновационный"
+    },
+    {
+      "title": "Планшет M718 Wintouch 4GB 7",
+      "fashion": "Samsung",
+      "processor": "Samsung A12 Bionic",
+      "dioganal": "8.4",
+      "display": "Super Retina XDR (OLED)",
+      "weight": "288",
+      "camera": "телефото 12 МП F/2.80, широкоугольная 12 МП F/1.50, сверхширокоугольная 12 МП F/1.80",
+      "cores": "4",
+      "storage": "64GB",
+      "battery": "Li-Ion, Время работы в режиме прослушивания музыки 95 ч, функция беспроводной зарядки, функция быстрой зарядки",
+      "photo": "https://olcha.uz/image/700x700/products/XMGJyEx753FpiPEKPQuijoFAgotJwRIH0MK2RFuvBQi1bVU66eijOdKM9nXU.jpg",
+      "cost": "7590000",
+      "oldcost": "8682000",
+      "categoryId": "2",
+      "categoryName": "Tablets",
+      "id": 12,
+      "description": "Планшет M718 Wintouch 8GB 7 оснащен передовыми технологиями, значительно расширяющими функциональные возможности девайса. На тыльной стороне девайса расположен инновационный"
+    },
+    {
+      "title": "Наушники беспроводные Defender B525 Bluetooth",
+      "fashion": "Apple",
+      "weight": "188",
+      "battery": "Li-Ion, Время работы в режиме прослушивания музыки 95 ч, функция беспроводной зарядки, функция быстрой зарядки",
+      "photo": "https://olcha.uz/image/700x700/products//supplier/stores/27076/6408053043.jpg",
+      "cost": "750000",
+      "oldcost": "852000",
+      "categoryId": "3",
+      "categoryName": "Headphones",
+      "id": 13,
+      "description": "Стильная и удобная Bluetooth-гарнитура необычного дизайна с поддержкой SD-карт и аудио-кабелем в комплекте.- Компактная складная конструкция позволяет легко сложить гарнитуру и взять с собой в поездку.- Встроенный микрофон обеспечивает качественную передачу звука."
+    },
+    {
+      "title": "Наушники Samsung Galaxy Buds 2 ",
+      "fashion": "Samsung",
+      "weight": "118",
+      "battery": "Li-Ion, Время работы в режиме прослушивания музыки 95 ч, функция беспроводной зарядки, функция быстрой зарядки",
+      "photo": "https://olcha.uz/image/700x700/products/cdn_1/supplier/stores/1/2024-04-25/sfkg3vwpvoVZ7lfm39Chn27yfolBdFPuXVZS3GUrt2Xlib63TRnuN9RXHgfS.jpeg",
+      "cost": "950000",
+      "oldcost": "1142000",
+      "categoryId": "3",
+      "categoryName": "Headphones",
+      "id": 14,
+      "description": "Открой свой собственный мир с Galaxy Buds 2. Усовершенствованная двухполосная акустика, активное шумоподавление и продуманный дизайн наушников для наслаждения от прослушивания любимой музыки и их комфортного использования в течение всего дня."
+    },
+    {
+      "title": "Беспроводные наушники Vivo TWS 3e",
+      "fashion": "Vivo",
+      "weight": "98",
+      "battery": "Li-Ion, Время работы в режиме прослушивания музыки 95 ч, функция беспроводной зарядки, функция быстрой зарядки",
+      "photo": "https://olcha.uz/image/700x700/products/cdn_1/supplier/stores/1/2024-03-15/nY0HXSygYVof6lx4wwg3YqSfdMVU1llSNu4OwYKdPoVntmnn2YCfqDQaqXE6.jpg",
+      "cost": "950000",
+      "oldcost": "1342000",
+      "categoryId": "3",
+      "categoryName": "Headphones",
+      "id": 15,
+      "description": "Интеллектуальная система активного шумоподавления блокирует звуковые волны, давая вам возможность наслаждаться спокойной атмосферой в кафе, спальне или созданном вами уютном уголке посреди хаоса. Отключите все звуки внешнего мира и погрузитесь в мир музыки. Улучшенная устойчивость микрофона к шуму ветра. Подавление шума во время вызовов."
+    },
+    {
+      "title": "Беспроводные Накладная наушники Yesido EP05 ",
+      "fashion": "Vivo",
+      "weight": "150",
+      "battery": "Li-Ion, Время работы в режиме прослушивания музыки 95 ч, функция беспроводной зарядки, функция быстрой зарядки",
+      "photo": "https://cdn.olcha.uz/image/700x700/products/woocomerce/sp-phone/2024-02-27/2s7MrJMQVMWn78YwUPoyt5cycURIdsJ2pyAhDnOYAPIxR45f3PRRroWF6aLHTxFG.jpeg",
+      "cost": "255000",
+      "oldcost": "368000",
+      "categoryId": "3",
+      "categoryName": "Headphones",
+      "id": 16,
+      "description": "Используйте удобные для кожи и дышащие наушники, которые удобно осить и не давят на уши. Поддерживает несколько режимов Bluetooth  подключаемая карта + подключаемый кабель, и вы можете наслаждаться музыкой в ​​любое время. Встроенная литиевая батарея большой емкости, 6-10 часов прослушивания, длительное время автономной работы."
+    },
+    {
+      "title": "Joyroom Foldable Stand Phone Holder",
+      "fashion": "Vivo",
+      "weight": "90",
+      "photo": "https://olcha.uz/image/700x700/products/cdn_1/supplier/stores/1/2024-03-19/HsRMtTiTUpcZ1Q0zMXWRO0J8TvUMWb0QnE3GJ9HckqcUjCqb6lZExn8CNMcb.jpg",
+      "cost": "99000",
+      "oldcost": "142000",
+      "categoryId": "4",
+      "categoryName": "Accessuars",
+      "id": 17,
+      "description": "Joyroom Foldable Stand Phone Holder - это компактная подставка для мобильных телефонов, которая обеспечивает удобство и стабильную поддержку вашего устройства во время использования. Вот основные характеристики и особенности этой подставки: Складной дизайн: Подставка легко складывается, что делает ее удобной для транспортировки и хранения."
+    },
+    {
+      "title": "Внешние аккумулятор Baseus PPCX070005",
+      "fashion": "Samsung",
+      "weight": "250",
+      "photo": "https://cdn.olcha.uz/image/700x700/products/woocomerce/sp-phone/2024-03-07/FDFeatMKts40j1woJmMDHjtpfNDU2DMPyTFdOAo41WGQ11XteeQnozfRkeBGZcj3.jpeg",
+      "cost": "470000",
+      "oldcost": "542000",
+      "categoryId": "4",
+      "categoryName": "Accessuars",
+      "id": 18,
+      "description": "Внешний аккумулятор Baseus Magnetic Bracket Wireless 20W зарядит любой смартфон или другое устройство где бы вы ни находились. Повербанк может одновременно заряжать два гаджета. Один с помощью кабеля, а второй по беспроводной технологии QI. Благодаря поддержанию стандартов быстрой зарядки, делает это гораздо быстрее. Выполнен он в компактных размерах, поэтому не занимает много места в сумке. "
+    },
+    {
+      "title": "Стабилизатор для телефона Yesido sf18",
+      "fashion": "Xiomi",
+      "weight": "250",
+      "photo": "https://cdn.olcha.uz/image/700x700/products/woocomerce/sp-phone/2024-02-27/IGWiTHT1j8zDiNQjSmphahFDMRL1mDBBa6r2es1hnWj4JQ16cKL8rUlYrIJruFpV.jpeg",
+      "cost": "925000",
+      "oldcost": "1342000",
+      "categoryId": "4",
+      "categoryName": "Accessuars",
+      "id": 19,
+      "description": "Yesido SF18 – новейшая модель сверхлегкого современного 3-осного стабилизатора, позволяющая владельцам смартфонов записывать плавные видео и четкие фото в любом контексте. Гаджет снабжен прогрессивной электронной системой стабилизации, которая обеспечивает отличные результаты даже при очень сложных условиях. С ним ваши мобильные фото выйдут на новый уровень!"
+    },
+    {
+      "title": "Держатель для зарядки HOCO HD7 61363",
+      "fashion": "Apple",
+      "weight": "150",
+      "photo": "https://cdn.olcha.uz/image/700x700/products/woocomerce/sp-phone/2024-02-27/cRROQWuQgCz1T8pVTmGoLefmRA8l9fQTZW0SByK5CUSpHTTerDAMqCbiJa6lZO9O.jpeg  ",
+      "cost": "92000",
+      "oldcost": "142000",
+      "categoryId": "4",
+      "categoryName": "Accessuars",
+      "id": 20,
+      "description": "Материал: алюминиевый сплав + силикон  Обработка поверхности: пескоструйная обработка + окисление  Размер: в сложенном состоянии: 70*66*87 мм; Вес: 56 г  Подходит для оригинального зарядного устройства iWatch и зарядного устройства для часов с размером в пределах совместимого диапазона (диапазон совместимости по диаметру: 27-28 мм, диапазон совместимости по толщине: ≤7,5 мм)"
+    },
+    {
+      "title": "REMAX БЫСТРОЕ МОБИЛЬНОЕ ЗАРЯДНОЕ УСТРОЙСТВО",
+      "fashion": "Remax",
+      "weight": "50",
+      "photo": "https://cdn.olcha.uz/image/700x700/products/woocomerce/sp-phone/2024-02-18/H8Vj8pfikYKyaHao46g1BW5jagdtIjnkWzMgVdEIgANl3ly3St1sOcWRXMGqglVl.jpeg",
+      "cost": "39000",
+      "oldcost": "62000",
+      "categoryId": "6",
+      "categoryName": "Chargers",
+      "id": 21,
+      "description": "Небольшой размер, легко носить с собой Два порта заряжаются одновременно для удовлетворения ежедневных потребностей Интеллектуальный контроль температуры чипа, эффективное рассеивание тепла без нагревания Матовый корпус из АБС-пластика, не легко царапается, 2 А"
+    },
+    {
+      "title": "Зарядное устройство Hoco C59A 61116",
+      "fashion": "Remax",
+      "weight": "45",
+      "photo": "https://cdn.olcha.uz/image/700x700/products/woocomerce/sp-phone/2024-02-18/VqI4sv4QJK3PDtwgkEhc4i9tjoIUX8emaLb65bNOP1zE8lb6PEx1lYBRGyUtTeVc.jpeg",
+      "cost": "48000",
+      "oldcost": "76000",
+      "categoryId": "6",
+      "categoryName": "Chargers",
+      "id": 22,
+      "description": "Небольшой размер, легко носить с собой Два порта заряжаются одновременно для удовлетворения ежедневных потребностей Интеллектуальный контроль температуры чипа, эффективное рассеивание тепла без нагревания Матовый корпус из АБС-пластика, не легко царапается, 2 А"
+    },
+    {
+      "title": "Зарядное устройство Hoco C88A 61119",
+      "fashion": "Remax",
+      "weight": "45",
+      "photo": "https://cdn.olcha.uz/image/700x700/products/woocomerce/sp-phone/2024-02-18/AKTA5SnhpxWdNPFvK3t9alAWFKT68fUByDTgUrcOSTueK3A53hC1G3x3aS8ysebX.jpeg",
+      "cost": "88000",
+      "oldcost": "102000",
+      "categoryId": "6",
+      "categoryName": "Chargers",
+      "id": 23,
+      "description": "Небольшой размер, легко носить с собой Два порта заряжаются одновременно для удовлетворения ежедневных потребностей Интеллектуальный контроль температуры чипа, эффективное рассеивание тепла без нагревания Матовый корпус из АБС-пластика, не легко царапается, 2 А"
+    },
+    {
+      "title": "Зарядное устройство Hoco C96A 61140",
+      "fashion": "Remax",
+      "weight": "65",
+      "photo": "https://cdn.olcha.uz/image/700x700/products/woocomerce/sp-phone/2024-02-18/15rA6F5brmPSYbIqW0HWL1vQVEOpLq0TfdSFxUgwNecQwBy8r4xIPYOucklToElT.jpeg",
+      "cost": "88000",
+      "oldcost": "112000",
+      "categoryId": "6",
+      "categoryName": "Chargers",
+      "id": 24,
+      "description": "Небольшой размер, легко носить с собой Два порта заряжаются одновременно для удовлетворения ежедневных потребностей Интеллектуальный контроль температуры чипа, эффективное рассеивание тепла без нагревания Матовый корпус из АБС-пластика, не легко царапается, 2 А"
+    },
+    {
+      "title": "AUX аудиоадаптер Saramonic SR-C2000",
+      "fashion": "Xiomi",
+      "weight": "25",
+      "photo": "https://cdn.olcha.uz/image/700x700/products/woocomerce/sp-phone/2024-03-15/CF1ZvrCurYDOC5gFMNJ41ICMYa0GMAAcEX0yRLxp45OERGrceQ9nETT3OWtOxgk1.jpeg",
+      "cost": "240000",
+      "oldcost": "362000",
+      "categoryId": "7",
+      "categoryName": "Cabels",
+      "id": 25,
+      "description": "Легко записывайте микрофоны, приемники беспроводных микрофонов, аудиорекордеры, микшеры и многое другое в порт Lightning на Apple iPhone или iPad.Разъем 3,5 мм обеспечивает питание микрофонов для совместимости с широким спектром микрофонов, включая популярные накамерные видеомикрофоны."
+    },
+    {
+      "title": "Iphone zaryadka 20watt айфон головка",
+      "fashion": "Xiomi",
+      "weight": "25",
+      "photo": "https://frankfurt.apollo.olxcdn.com/v1/files/1ejdplz32sem1-UZ/image;s=1000x700",
+      "cost": "150000",
+      "oldcost": "212000",
+      "categoryId": "7",
+      "categoryName": "Cabels",
+      "id": 26,
+      "description": "Легко записывайте микрофоны, приемники беспроводных микрофонов, аудиорекордеры, микшеры и многое другое в порт Lightning на Apple iPhone или iPad.Разъем 3,5 мм обеспечивает питание микрофонов для совместимости с широким спектром микрофонов, включая популярные накамерные видеомикрофоны."
+    },
+    {
+      "title": "ORiginal зарядка iphone charger 20w original.",
+      "fashion": "Iphone",
+      "weight": "25",
+      "photo": "https://frankfurt.apollo.olxcdn.com/v1/files/cnslkdwlj5l23-UZ/image;s=1000x700",
+      "cost": "150000",
+      "oldcost": "242000",
+      "categoryId": "7",
+      "categoryName": "Cabels",
+      "id": 27,
+      "description": "Легко записывайте микрофоны, приемники беспроводных микрофонов, аудиорекордеры, микшеры и многое другое в порт Lightning на Apple iPhone или iPad.Разъем 3,5 мм обеспечивает питание микрофонов для совместимости с широким спектром микрофонов, включая популярные накамерные видеомикрофоны."
+    },
+    {
+      "title": "Universal cabels",
+      "fashion": "Xiomi",
+      "weight": "25",
+      "photo": "https://m.media-amazon.com/images/I/71R2vkyBe-L.jpg",
+      "cost": "150000",
+      "oldcost": "198000",
+      "categoryId": "7",
+      "categoryName": "Cabels",
+      "id": 28,
+      "description": "Легко записывайте микрофоны, приемники беспроводных микрофонов, аудиорекордеры, микшеры и многое другое в порт Lightning на Apple iPhone или iPad."
+    }
+  ],
+  "category": [
+    {
+      "name": "Smartphones",
+      "id": 1
+    },
+    {
+      "name": "Tablets",
+      "id": 2
+    },
+    {
+      "name": "Headphones",
+      "id": 3
+    },
+    {
+      "name": "Accessuars",
+      "id": 4
+    },
+    {
+      "name": "Gadgets",
+      "id": 5
+    },
+    {
+      "name": "Chargers",
+      "id": 6
+    },
+    {
+      "name": "Cabels",
+      "id": 7
+    }
+  ],
+  "banners": [
+    {
+      "img": "https://olcha.uz/image/original/sliders/ru/JwFP8H3qk55szQrT7xiLJzB71g6gAChEtieJYv4aFEJ3udzLC1mAKRFFInww.png",
+      "id": 800
+    },
+    {
+      "img": "https://olcha.uz/image/original/sliders/ru/etALz7NufgJ8sFKv7ZZgJJPIbCk3ka6pnDQt5brev1etacWH3Vvfl6Xuxa8Q.png",
+      "id": 801
+    },
+    {
+      "img": "https://olcha.uz/image/original/sliders/ru/c1lBPgoshZuCwRyVfkWKxh3J03EzknQdOqNW9Hx1JGAmPsNqydGPCoQnWD2l.png",
+      "id": 802
+    },
+    {
+      "img": "https://olcha.uz/image/original/sliders/ru/cdn_1/2024-04-09/GLfHBNxWohVvlgbtUMSiWsjW8gMMPLMN97Q1IRMSbKIPEj1lpTdn8i3dWTwI.jpg",
+      "id": 802
+    }
+  ]
+}
